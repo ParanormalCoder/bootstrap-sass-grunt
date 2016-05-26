@@ -1,5 +1,4 @@
 # bootstrap-sass-grunt
-* * *
 
 ## A boilerplate for bootstrap-sass
 
