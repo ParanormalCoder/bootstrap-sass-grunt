@@ -26,17 +26,18 @@ After running the above commands, you can run the below commands:
 2.  _grunt dist_ :compiles the src folder's content into dist folder. (distribution option)
 
 The developer option needs the following tags in the index.html file:
-
+```html
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="dist/css/style.css">
 <!-- scripts -->
 <script src="dist/js/jquery.js"></script>
 <script src="dist/js/bootstrap.js"></script>
 <script src="dist/js/script.js"></script>
-
+```
 The distribution option needs the following tags in the index.html file:
-
+```html
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="dist/css/style.css">
 <!-- scripts -->
 <script src="dist/js/bundle.js"></script>
+```
