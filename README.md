@@ -41,3 +41,6 @@ The distribution option needs the following tags in the index.html file:
 <!-- scripts -->
 <script src="dist/js/bundle.js"></script>
 ```
+
+
+Copyright (c) 2008-2016 Pivotal Labs. This software is licensed under the MIT License.
