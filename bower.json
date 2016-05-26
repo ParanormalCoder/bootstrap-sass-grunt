@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap-sass-grunt",
+  "description": "A boilerplate for bootstrap-sass front-end design",
+  "main": "",
+  "authors": [
+    "Ehsan Kh."
+  ],
+  "license": "MIT",
+  "keywords": [
+    "web",
+    "front-end",
+    "jquery",
+    "bootstrap-sass",
+    "grunt"
+  ],
+  "homepage": "https://github.com/ParanormalCoder/bootstrap-sass-grunt",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
+}
