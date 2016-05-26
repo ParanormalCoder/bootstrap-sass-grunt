@@ -1,7 +1,7 @@
 # bootstrap-sass-grunt
 * * *
 
-A boilerplate for bootstrap-sass
+## A boilerplate for bootstrap-sass
 
 Project structure:  
 It mainly consists of src folder, which includes the following folders:  
