@@ -2,7 +2,8 @@
 
 ## A boilerplate for bootstrap-sass
 
-Project structure:  
+###Project structure: 
+
 It mainly consists of src folder, which includes the following folders:  
 
 1. _style/_ : includes style.scss, which references the bootstrap.  
